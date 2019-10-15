@@ -1,6 +1,8 @@
 -----------------------
 # README
 -----------------------
+Project Description
+This is a platform to handicraft sellers to sell their products not only locally but also overseas
 
 Furn is a bootstrap 3 framework based html5/css3 ecommerce template.It will help developers to rapidly built a ecommerce website
 
